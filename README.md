@@ -2,6 +2,7 @@ Hello! This python script has developed by [@dlivitz](https://github.com/dlivitz
 ### Basic Instructions
 
 While on further updates this process may be streamlined by making it a seperate file, currently every line of code that has to be edited has been marked with comments containing **XYZ**.
+
 Ctrl + F it to find them and you will be able to make the script work on, hopefully, anything that runs python.
   
 The script works as such:

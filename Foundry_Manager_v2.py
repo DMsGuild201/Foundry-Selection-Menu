@@ -185,7 +185,7 @@ def index(world=None):
 
         <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
         <div class="w3-display-topleft w3-padding-large w3-xlarge">
-            Welcome to Dimitri's Foundry Selection Screen!
+            Welcome to Dlivitz & Vauxs Foundry Selection Screen!
         </div>
         <div class="w3-display-middle">
             <h1 class="w3-jumbo w3-animate-top"> <strong> """+"".join([_get_world_url(x) for x in world_mapping.items()]) +"""  </strong></h1>
@@ -289,7 +289,7 @@ def index(world=None):
 
         <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
         <div class="w3-display-topleft w3-padding-large w3-xlarge">
-            Welcome to DnD!
+            Enjoy your game!
         </div>
         <div class="w3-display-middle">
             <h1 class="w3-jumbo w3-animate-top"> <strong><p class="saving">Loading <span>.</span><span>.</span><span>.</span></p> </strong></h1>

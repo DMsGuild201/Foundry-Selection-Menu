@@ -74,7 +74,7 @@ class AwfulScrape_nPlayers(HTMLParser):
 
     def handle_data(self, data):
         if self.in_label:
-            if "Current Players:" in data:  
+            if "Current Players" in data:  
                 self.previous_label_players=True
             else:
                 self.previous_label_players=False

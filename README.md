@@ -1,5 +1,3 @@
-### WARNING, THIS DOES NOT WORK YET ON 0.7.X
-
 Hello! This python script has developed by [@dlivitz](https://github.com/dlivitz) and propagated by [@MrVauxs](https://github.com/MrVauxs).
 ### Basic Instructions
 
